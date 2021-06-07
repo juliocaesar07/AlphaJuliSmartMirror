@@ -1,0 +1,2 @@
+# AlphaJuliSmartMirror
+ MagicMirrorProject
